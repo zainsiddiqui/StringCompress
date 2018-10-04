@@ -3,15 +3,14 @@ Simple & efficient program that compresses a string by counting repeating sequen
 
 * Created using Java programming language.
 
+
+![image](https://user-images.githubusercontent.com/39894720/46452384-7f895400-c769-11e8-9646-200fa8421cc8.png)
+
+Compressed String:
+![image](https://user-images.githubusercontent.com/39894720/46452403-962fab00-c769-11e8-804d-a4d9bdafba47.png)
+
+----------------------------------
 ![image](https://user-images.githubusercontent.com/39894720/46452250-d0e51380-c768-11e8-9f5e-fab2c28c5590.png)
 
 Compressed String:
 ![image](https://user-images.githubusercontent.com/39894720/46452266-ea865b00-c768-11e8-919e-518c1122d62f.png)
-
-
------------------
-
-![image](https://user-images.githubusercontent.com/39894720/46452283-feca5800-c768-11e8-9dcf-bce7ed63988d.png)
-
-Compressed String:
-![image](https://user-images.githubusercontent.com/39894720/46452295-0c7fdd80-c769-11e8-8e47-207e20108614.png)
